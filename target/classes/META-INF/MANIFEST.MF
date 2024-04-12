@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Built-By: psejal
+Build-Jdk: 17.0.6
+Class-Path: selenium-java-4.9.0.jar selenium-api-4.9.0.jar selenium-chro
+ me-driver-4.9.0.jar auto-service-annotations-1.0.1.jar auto-service-1.0
+ .1.jar auto-common-1.2.jar guava-31.1-jre.jar failureaccess-1.0.1.jar l
+ istenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar jsr305-3.
+ 0.2.jar checker-qual-3.12.0.jar error_prone_annotations-2.11.0.jar j2ob
+ jc-annotations-1.3.jar selenium-chromium-driver-4.9.0.jar selenium-json
+ -4.9.0.jar selenium-manager-4.9.0.jar selenium-devtools-v110-4.9.0.jar 
+ selenium-devtools-v111-4.9.0.jar selenium-devtools-v112-4.9.0.jar selen
+ ium-devtools-v85-4.9.0.jar selenium-edge-driver-4.9.0.jar selenium-fire
+ fox-driver-4.9.0.jar selenium-http-4.9.0.jar failsafe-3.3.1.jar seleniu
+ m-ie-driver-4.9.0.jar selenium-remote-driver-4.9.0.jar netty-buffer-4.1
+ .91.Final.jar netty-codec-http-4.1.91.Final.jar netty-codec-4.1.91.Fina
+ l.jar netty-handler-4.1.91.Final.jar netty-common-4.1.91.Final.jar nett
+ y-transport-classes-epoll-4.1.91.Final.jar netty-transport-classes-kque
+ ue-4.1.91.Final.jar netty-transport-native-unix-common-4.1.91.Final.jar
+  netty-transport-4.1.91.Final.jar netty-resolver-4.1.91.Final.jar opent
+ elemetry-api-1.25.0.jar opentelemetry-context-1.25.0.jar opentelemetry-
+ exporter-logging-1.25.0.jar opentelemetry-sdk-metrics-1.25.0.jar opente
+ lemetry-sdk-logs-1.25.0-alpha.jar opentelemetry-api-logs-1.25.0-alpha.j
+ ar opentelemetry-api-events-1.25.0-alpha.jar opentelemetry-sdk-common-1
+ .25.0.jar opentelemetry-sdk-extension-autoconfigure-spi-1.25.0.jar open
+ telemetry-sdk-extension-autoconfigure-1.25.0-alpha.jar opentelemetry-sd
+ k-trace-1.25.0.jar opentelemetry-sdk-1.25.0.jar opentelemetry-semconv-1
+ .25.0-alpha.jar jtoml-2.0.0.jar byte-buddy-1.14.4.jar commons-exec-1.3.
+ jar async-http-client-2.12.3.jar async-http-client-netty-utils-2.12.3.j
+ ar netty-codec-socks-4.1.60.Final.jar netty-handler-proxy-4.1.60.Final.
+ jar netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar netty-tr
+ ansport-native-kqueue-4.1.60.Final-osx-x86_64.jar reactive-streams-1.0.
+ 3.jar netty-reactive-streams-2.0.4.jar jakarta.activation-1.2.2.jar sel
+ enium-safari-driver-4.9.0.jar selenium-support-4.9.0.jar slf4j-api-1.7.
+ 36.jar jcommander-1.82.jar webdrivermanager-5.3.2.jar gson-2.10.1.jar d
+ ocker-java-3.2.14.jar docker-java-core-3.2.14.jar docker-java-api-3.2.1
+ 4.jar jackson-annotations-2.10.3.jar commons-io-2.6.jar commons-compres
+ s-1.21.jar jackson-databind-2.10.3.jar jackson-core-2.10.3.jar bcpkix-j
+ dk15on-1.64.jar bcprov-jdk15on-1.64.jar jcl-over-slf4j-1.7.30.jar docke
+ r-java-transport-httpclient5-3.2.14.jar docker-java-transport-3.2.14.ja
+ r jna-5.12.1.jar dec-0.1.2.jar commons-lang3-3.12.0.jar httpclient5-5.2
+ .1.jar httpcore5-5.2.jar httpcore5-h2-5.2.jar
+Main-Class: TestCase.TC_Mainpage
+Created-By: Maven Integration for Eclipse
+

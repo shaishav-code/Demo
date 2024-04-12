@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T17:58:09 IST" name="Command line suite" finished-at="2023-05-18T17:58:32 IST" duration-ms="22580">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T17:58:09 IST" name="Command line test" finished-at="2023-05-18T17:58:32 IST" duration-ms="22580">
+      <class name="TestCase.TC_Mainpage">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCase.TC_Mainpage@57c758ac]" started-at="2023-05-18T17:58:09 IST" name="init" finished-at="2023-05-18T17:58:18 IST" duration-ms="9088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="objectrepo()[pri:0, instance:TestCase.TC_Mainpage@57c758ac]" started-at="2023-05-18T17:58:18 IST" name="objectrepo" finished-at="2023-05-18T17:58:18 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectrepo -->
+        <test-method signature="task()[pri:0, instance:TestCase.TC_Mainpage@57c758ac]" started-at="2023-05-18T17:58:18 IST" name="task" finished-at="2023-05-18T17:58:32 IST" duration-ms="13228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task -->
+      </class> <!-- TestCase.TC_Mainpage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
